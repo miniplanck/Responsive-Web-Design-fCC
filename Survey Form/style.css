@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:200i,400&display=swap');
 
+/* Title and Description */
+
 h1, p[id="description"] {
   text-align: center;
   color: white;
@@ -14,6 +16,8 @@ p[id="description"] {
   font-style: italic;
   margin-top: -20px;
 }
+
+/* Form */
 
 form {
   width: 60vw;
@@ -73,6 +77,8 @@ input, select, textarea{
 fieldset {
   border: none;
 }
+
+/* Button */
 
 input[type="submit"] {
   display: block;
