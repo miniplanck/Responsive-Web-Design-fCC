@@ -5,3 +5,4 @@ In this repository are the solutions to the proposed projects concerning the *Re
 The five projects are listed as follows:
 
 - [Survey Form](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form);
+- [Tribute Page](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page);
